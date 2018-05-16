@@ -15,9 +15,10 @@
 
 ## 2. For object detection
 
-- [Mask R-CNN](https://arxiv.org/abs/1703.06870).2018.
+- [Mask R-CNN](https://arxiv.org/abs/1703.06870).
   Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick.
   IEEE International Conference on Computer Vision (ICCV), 2017. -- *Marr Prize at ICCV 2017*
+- [YOLO v3](https://pjreddie.com/media/files/papers/YOLOv3.pdf). 
 - [RetinaNet](https://arxiv.org/abs/1708.02002).
   Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Dollár.
   IEEE International Conference on Computer Vision (ICCV), 2017. -- *Best Student Paper Award at ICCV 2017*
