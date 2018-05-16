@@ -1,14 +1,12 @@
 # DeepLearning-Papers
 
-## Introduction
+## 1. DeepLearning algorithms for classfication
 
-The goal of Detectron is to provide a high-quality, high-performance
-codebase for object detection *research*. It is designed to be flexible in order
-to support rapid implementation and evaluation of novel research. Detectron
-includes implementations of the following object detection algorithms:
+
+## 2.DeepLearning algorithms for object detection
 
 - [Mask R-CNN](https://arxiv.org/abs/1703.06870) -- *Marr Prize at ICCV 2017*
-- [RetinaNet](https://arxiv.org/abs/1708.02002) -- *Best Student Paper Award at ICCV 2017*
+- [RetinaNet](https://arxiv.org/abs/1708.02002)  -- *Best Student Paper Award at ICCV 2017*
 - [Faster R-CNN](https://arxiv.org/abs/1506.01497)
 - [RPN](https://arxiv.org/abs/1506.01497)
 - [Fast R-CNN](https://arxiv.org/abs/1504.08083)
