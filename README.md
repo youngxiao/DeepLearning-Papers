@@ -27,7 +27,7 @@
 - [Fast R-CNN](http://arxiv.org/abs/1504.08083).
   Ross Girshick.
   IEEE International Conference on Computer Vision (ICCV), 2015.
-- [YOLO v1](https://pjreddie.com/media/files/papers/yolo.pdf).
+- [YOLO v2](https://pjreddie.com/media/files/papers/yolo.pdf).
 - [YOLO v1](https://pjreddie.com/media/files/papers/yolo.pdf). 
 - [RPN](https://arxiv.org/abs/1506.01497)
 - [R-FCN](http://arxiv.org/abs/1605.06409).
