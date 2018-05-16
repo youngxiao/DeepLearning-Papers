@@ -2,22 +2,38 @@
 
 ## 1. DeepLearning algorithms for classfication
 
+- [ResNeXt{50,101,152}](https://arxiv.org/abs/1611.05431)
+- [ResNet{50,101,152}](https://arxiv.org/abs/1512.03385)
+- [GoogLeNet]()
+- []()
+- [Feature Pyramid Networks](https://arxiv.org/abs/1612.03144) (with ResNet/ResNeXt)
+- [VGG16](https://arxiv.org/abs/1409.1556)
+
+
 
 ## 2.DeepLearning algorithms for object detection
 
-- [Mask R-CNN](https://arxiv.org/abs/1703.06870) -- *Marr Prize at ICCV 2017*
-- [RetinaNet](https://arxiv.org/abs/1708.02002)  -- *Best Student Paper Award at ICCV 2017*
-- [Faster R-CNN](https://arxiv.org/abs/1506.01497)
+- [Mask R-CNN](https://arxiv.org/abs/1703.06870).   -- *Marr Prize at ICCV 2017*
+  Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick.
+  IEEE International Conference on Computer Vision (ICCV), 2017.
+- [RetinaNet](https://arxiv.org/abs/1708.02002).  -- *Best Student Paper Award at ICCV 2017*
+  Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Dollár.
+  IEEE International Conference on Computer Vision (ICCV), 2017.
+- [Faster R-CNN](http://arxiv.org/abs/1506.01497)
+  Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun.
+  Conference on Neural Information Processing Systems (NIPS), 2015.
+- [Fast R-CNN](http://arxiv.org/abs/1504.08083).
+  Ross Girshick.
+  IEEE International Conference on Computer Vision (ICCV), 2015.
+ 
+
 - [RPN](https://arxiv.org/abs/1506.01497)
-- [Fast R-CNN](https://arxiv.org/abs/1504.08083)
+
 - [R-FCN](https://arxiv.org/abs/1605.06409)
 
 using the following backbone network architectures:
 
-- [ResNeXt{50,101,152}](https://arxiv.org/abs/1611.05431)
-- [ResNet{50,101,152}](https://arxiv.org/abs/1512.03385)
-- [Feature Pyramid Networks](https://arxiv.org/abs/1612.03144) (with ResNet/ResNeXt)
-- [VGG16](https://arxiv.org/abs/1409.1556)
+
 
 Additional backbone architectures may be easily implemented. For more details about these models, please see [References](#references) below.
 
@@ -32,12 +48,7 @@ Additional backbone architectures may be easily implemented. For more details ab
 - [Non-Local Neural Networks](https://arxiv.org/abs/1711.07971).
   Xiaolong Wang, Ross Girshick, Abhinav Gupta, and Kaiming He.
   Tech report, arXiv, Nov. 2017.
-- [Mask R-CNN](https://arxiv.org/abs/1703.06870).
-  Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick.
-  IEEE International Conference on Computer Vision (ICCV), 2017.
-- [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002).
-  Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Dollár.
-  IEEE International Conference on Computer Vision (ICCV), 2017.
+
 - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677).
   Priya Goyal, Piotr Dollár, Ross Girshick, Pieter Noordhuis, Lukasz Wesolowski, Aapo Kyrola, Andrew Tulloch, Yangqing Jia, and Kaiming He.
   Tech report, arXiv, June 2017.
@@ -56,9 +67,4 @@ Additional backbone architectures may be easily implemented. For more details ab
 - [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385).
   Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
-- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://arxiv.org/abs/1506.01497)
-  Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun.
-  Conference on Neural Information Processing Systems (NIPS), 2015.
-- [Fast R-CNN](http://arxiv.org/abs/1504.08083).
-  Ross Girshick.
-  IEEE International Conference on Computer Vision (ICCV), 2015.
+
