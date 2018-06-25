@@ -34,6 +34,13 @@
 - [R-FCN](http://arxiv.org/abs/1605.06409).
   Jifeng Dai, Yi Li, Kaiming He, and Jian Sun.
   Conference on Neural Information Processing Systems (NIPS), 2016.
-
-
-
+  
+## Blogs
+- 1.各种卷积总结，[CNN中千奇百怪的卷积方式大汇总](https://zhuanlan.zhihu.com/p/29367273)
+- 2.FaceBook 的 Detectron实现，[使用Detectron进行目标检测](https://zhuanlan.zhihu.com/p/34036460)
+- 3.YOLOv3小的实现，[YOLOv3: 训练自己的数据](https://blog.csdn.net/lilai619/article/details/79695109)
+- 4.GoogLeNet Inception，[GoogLeNet 之 Inception(V1-V4)](https://blog.csdn.net/hejin_some/article/details/78636586)
+- 5.FAIR最新视觉论文集锦：[FPN，RetinaNet，Mask 和 Mask-X RCNN](https://www.leiphone.com/news/201803/CZMRB9witGrytCNw.html)
+- 6.图解YOLO：[图解YOLO](https://zhuanlan.zhihu.com/p/24916786)
+- 7.关于目标检测模型评估指标，[目标检测模型的评估指标mAP](https://zhuanlan.zhihu.com/p/37910324)
+- 8.YOLO幻灯片，[ppt](https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.g137784ab86_4_1509)
